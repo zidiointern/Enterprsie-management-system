@@ -13,7 +13,7 @@ This project is built using **Java Spring Boot**, **React with Redux Toolkit**, 
 ## 🚀 Tech Stack  
 - **Spring Boot (Java)** 🌱  
 - **React + Redux Toolkit** ⚛️  
-- **PostgreSQL / MySQL** 🗄️  
+- **MySQL** 🗄️  
 - **Material UI** 🎨  
 - **Chart.js** 📈  
 
